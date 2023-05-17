@@ -10,7 +10,7 @@ func main() {
 	var name string
 	name = "Tim"
 	name = "rana"
-	var number uint8 = 123
+	var number = 123
 	number = number + 78
 	fmt.Println("Hello Sudoaptrana to Go", name, number)
 }
