@@ -13,4 +13,5 @@ func main() {
 	fmt.Println(number, bl)
 }
 
-//printf is going to print the type of function we are printing
+//printf is going to print the type of variable we are printing
+//in printf %v print out the value
